@@ -4,7 +4,7 @@
 <div align="center">
 <!-- Main Title with blue/cyan gradient -->
 <h1 style="background: linear-gradient(90deg, #00d4ff, #6eafff); -webkit-background-clip: text; color: transparent;">
-👋 Hey, I'm Syntiche
+👋 Hey
 </h1>
   
 ### 🎓 About Me
