@@ -14,7 +14,7 @@
 <span style="color:#00d4ff;">Informatics Student</span> | <span style="color:#6eafff;">💻 Web & Mobile Developer</span> | <span style="color:#00d4ff;">🐳 Docker & Cloud Explorer</span>  
 
 I’m a dev who loves **learning, experimenting, and contributing to open-source**.  
-Focused on **clean code, scalable apps, TDD**, and exploring **Cybersecurity**—with style and passion 💖.
+Focused on **clean code, scalable apps, TDD**, and exploring **Cybersecurity** and Devops 💖.
 
 ---
 
@@ -26,8 +26,5 @@ Focused on **clean code, scalable apps, TDD**, and exploring **Cybersecurity**�
 
 ---
 
-🌟 My Motto
-
-<span style="color:#00d4ff;">“Always learning</span>, <span style="color:#6eafff;">always improving</span>, <span style="color:#00d4ff;">always coding with joy!” 💙</span>
 
 </div>
