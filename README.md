@@ -9,7 +9,8 @@
     Hey
   </h1>
 </div>
-### 🎓 About Me
+  
+ 🎓 About Me
 <span style="color:#00d4ff;">Informatics Student</span> | <span style="color:#6eafff;">💻 Web & Mobile Developer</span> | <span style="color:#00d4ff;">🐳 Docker & Cloud Explorer</span>  
 
 I’m a dev who loves **learning, experimenting, and contributing to open-source**.  
@@ -17,14 +18,14 @@ Focused on **clean code, scalable apps, TDD**, and exploring **Cybersecurity**�
 
 ---
 
-### 💻 My Tech Playground
+ 💻 My Tech Playground
 **Frontend:** <span style="color:#00d4ff;">React</span> | <span style="color:#6eafff;">Angular</span> | <span style="color:#00d4ff;">Flutter</span> | JavaScript | TypeScript  
 **Backend:** Java | Spring Boot | Symfony | Laravel | Node.js  
 **Other Fun Stuff:** Docker | Cloud | Git | CI/CD | APIs  
 
 ---
 
-### 🌟 My Motto
+🌟 My Motto
 <span style="color:#00d4ff;">“Always learning</span>, <span style="color:#6eafff;">always improving</span>, <span style="color:#00d4ff;">always coding with joy!” 💙</span>
 
 </div>
