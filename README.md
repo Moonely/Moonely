@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey there, I'm Syntiche 
+# 👋 Hey, I'm Syntiche 
 
 **<span style="color:#ff69b4;">✨✨</span>**
 
