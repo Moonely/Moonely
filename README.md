@@ -9,8 +9,8 @@
     Hey
   </h1>
 </div>
-  
  🎓 About Me
+  
 <span style="color:#00d4ff;">Informatics Student</span> | <span style="color:#6eafff;">💻 Web & Mobile Developer</span> | <span style="color:#00d4ff;">🐳 Docker & Cloud Explorer</span>  
 
 I’m a dev who loves **learning, experimenting, and contributing to open-source**.  
